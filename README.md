@@ -1,12 +1,11 @@
 Retail Sales Performance Dashboard
-=
 A Power BI analysis of multi-store retail performance
 =
 
 📌 Problem Statement
 =
 This project analyzes anonymized retail sales data to:
-- Compare YTD sales vs. goals across stores and locations
+- Compare Year To Date sales vs. goals across stores and locations
 - Identify trends in new vs. established store performance
 - Evaluate category-level sales variances (e.g., Womens vs. Juniors)
 
