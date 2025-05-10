@@ -12,20 +12,21 @@ This project analyzes anonymized retail sales data to:
 ## 🛠️ Steps Taken
 
 Data Exploration:
-Cleaned and modeled the obviEnce sample dataset in Power BI.
-Established relationships between stores, districts, and sales metrics.
+- Cleaned and validated data integrity by resolving naming conflicts, removing null entries, and fixing inconsistencies.
+- Built relationships between stores, districts, and sales metrics to enable cross-filtering in dashboards.
+- Modeled KPIs including fiscal period comparisons, sales density ($/sq ft), and goal variance tracking.
 
 Key Visualizations:
 - Sales Attainment Gauges - Track progress toward annual goals.
 - Geospatial Maps - Compare regional performance.
-- Variance Analysis - Identify under/over-performing categories.
+- Variance Analysis - Identify under-performing and over-performing categories.
 
 ## 📊 Results
 
 Top Findings:
-- Fashions Direct’s total sales ($16M) were 167% higher than Lindseys ($6M)
+- Fashions Direct’s total sales ($16M) were 167% higher than Lindseys' ($6M)
 - 95.3% Year To Date goal attainment (gap: $1.08M).
-- Ohio has the highest sales (5.45M) while Delaware has the lowest sales (253K)
+- Ohio has the highest statewide sales (5.45M) while Delaware has the lowest (253K)
   
 ## ⚠️ Copyright & Attribution
 
