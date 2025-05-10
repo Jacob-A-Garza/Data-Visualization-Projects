@@ -16,9 +16,9 @@ Cleaned and modeled the obviEnce sample dataset in Power BI.
 Established relationships between stores, districts, and sales metrics.
 
 Key Visualizations:
-Sales Attainment Gauges - Track progress toward annual goals.
-Geospatial Maps - Compare regional performance.
-Variance Analysis - Identify under/over-performing categories.
+- Sales Attainment Gauges - Track progress toward annual goals.
+- Geospatial Maps - Compare regional performance.
+- Variance Analysis - Identify under/over-performing categories.
 
 📊 Results
 =
