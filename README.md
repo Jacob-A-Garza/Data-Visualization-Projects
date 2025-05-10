@@ -2,14 +2,14 @@
 
 ## A Power BI analysis of multi-store retail performance
 
-📌 Problem Statement
+## 📌 Problem Statement
 =
 This project analyzes anonymized retail sales data to:
 - Compare Year To Date sales vs. goals across stores and locations
 - Identify trends in new vs. established store performance
 - Evaluate category-level sales variances (e.g., Womens vs. Juniors)
 
-🛠️ Steps Taken
+## 🛠️ Steps Taken
 =
 Data Exploration:
 Cleaned and modeled the obviEnce sample dataset in Power BI.
@@ -20,14 +20,14 @@ Key Visualizations:
 - Geospatial Maps - Compare regional performance.
 - Variance Analysis - Identify under/over-performing categories.
 
-📊 Results
+## 📊 Results
 =
 Top Findings:
 - Fashions Direct’s total sales ($16M) were 167% higher than Lindseys ($6M)
 - 95.3% Year To Date goal attainment (gap: $1.08M).
 - Ohio has the highest sales (5.45M) while Delaware has the lowest sales (253K)
   
-⚠️ Copyright & Attribution
+## ⚠️ Copyright & Attribution
 =
 This project uses the "Store Sales" sample dataset provided by:
 obviEnce © | The science of making things obvious | www.obvience.com  
