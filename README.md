@@ -1,6 +1,6 @@
-#__Retail Sales Performance Dashboard__
+# Retail Sales Performance Dashboard
 
-##__A Power BI analysis of multi-store retail performance__
+## A Power BI analysis of multi-store retail performance
 
 📌 Problem Statement
 =
