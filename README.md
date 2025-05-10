@@ -1,4 +1,5 @@
 **Retail Sales Performance Dashboard
+=
 A Power BI analysis of multi-store retail performance**
 =
 
