@@ -34,6 +34,6 @@ This project uses the "Store Sales" sample dataset provided by:
 obviEnce © | The science of making things obvious | www.obvience.com  
 
 Terms of Use:
-Data is property of obviEnce LLC and shared solely for Power BI demonstration.
-Raw data files (.pbix, .xlsx) are not redistributed in this repository.
-Derived visualizations include required copyright notices.
+- Data is property of obviEnce LLC and shared solely for Power BI demonstration.
+- Raw data files (.pbix, .xlsx) are not redistributed in this repository.
+- Derived visualizations include required copyright notices.
